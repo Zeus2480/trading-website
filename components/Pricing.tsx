@@ -1,6 +1,6 @@
 import React from "react";
 import { CheckIcon } from "@heroicons/react/20/solid";
-import { CardSpotlight } from "@/components/ui/card-spotlight";
+// import { CardSpotlight } from "@/components/ui/card-spotlight";
 const tiers = [
   {
     name: "Hobby",
